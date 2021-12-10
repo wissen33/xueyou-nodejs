@@ -5,7 +5,7 @@ npm i docsify-cli -g
 
 docsify init projectName
 
-docsify serve xueyou_homePage
+docsify serve xueyou-nodejs
 
 ```
 
